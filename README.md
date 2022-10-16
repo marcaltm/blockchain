@@ -1,8 +1,5 @@
 # Codi de la Blockchain
-En aquest repositori trobareu:
-- El codi dels 3 nodes.
-- El format per connectar els nodes.
-- El format per afegir transaccions. 
+En aquest repositori trobareu el codi utilitzat per crear la blockchain del Treball de Recerca anomenat "Introducció als fonaments de la Blockchain" i el format per connectar els nodes i afegir transaccions. 
 
 
 Marçal TM - 2022
